@@ -1,0 +1,29 @@
+.filters {
+  width: 250px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  margin-bottom: 20px;
+}
+
+.filters__block {
+  margin-bottom: 20px;
+}
+
+.filters__title {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.filters__label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.filters__checkbox {
+  margin-right: 10px;
+}
+
+.filters__input {
+  width: 80px;
+  margin-left: 10px;
+}
